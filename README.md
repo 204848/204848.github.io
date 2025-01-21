@@ -1,6 +1,6 @@
-# 一个博客 :link: https://204848.github.io 
-### :page_facing_up: [2](https://204848.github.io/tag.html) 
+# 一个博客 :link: http://blog.1357924680liu.us.kg 
+### :page_facing_up: [2](http://blog.1357924680liu.us.kg/tag.html) 
 ### :speech_balloon: 1 
 ### :hibiscus: 297 
-### :alarm_clock: 2025-01-21 13:48:09 
+### :alarm_clock: 2025-01-21 15:08:13 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
