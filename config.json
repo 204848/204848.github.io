@@ -3,6 +3,7 @@
     "subTitle":"这是一个简单博客，可能会分享一些知识或尘封一些信息",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "script":"<script>document.getElementById('cmButton').click();</script>",
