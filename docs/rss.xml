@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>一个博客</title><link>http://blog.1357924680liu.us.kg</link><description>这是一个简单博客，可能会分享一些知识或尘封一些信息</description><copyright>一个博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>http://blog.1357924680liu.us.kg</link></image><lastBuildDate>Mon, 27 Jan 2025 23:18:29 +0000</lastBuildDate><managingEditor>一个博客</managingEditor><ttl>60</ttl><webMaster>一个博客</webMaster><item><title>DeepSeek</title><link>http://blog.1357924680liu.us.kg/post/DeepSeek.html</link><description>昨天这个也有点太火了吧,上那么多次微博热搜,
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>一个博客</title><link>http://blog.1357924680liu.us.kg</link><description>这是一个简单博客，可能会分享一些知识或尘封一些信息</description><copyright>一个博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>http://blog.1357924680liu.us.kg</link></image><lastBuildDate>Thu, 30 Jan 2025 11:32:28 +0000</lastBuildDate><managingEditor>一个博客</managingEditor><ttl>60</ttl><webMaster>一个博客</webMaster><item><title>关于DeepSeek爆火</title><link>http://blog.1357924680liu.us.kg/post/guan-yu-DeepSeek-bao-huo.html</link><description>昨天这个也有点太火了吧,上那么多次微博热搜,
 
 ![Image](https://github.com/user-attachments/assets/de392acc-5a2c-495b-a9b4-175585df1295)
 
@@ -7,7 +7,7 @@
 
 ![Image](https://github.com/user-attachments/assets/8c832801-7657-449f-8462-5d1ef8734863)
 ![Image](https://github.com/user-attachments/assets/39f8d0f1-4b38-4d0f-8baf-2ebd05ad2607)
-![Image](https://github.com/user-attachments/assets/ddf92718-b603-4456-9037-c98701dd9fba)。</description><guid isPermaLink="true">http://blog.1357924680liu.us.kg/post/DeepSeek.html</guid><pubDate>Mon, 27 Jan 2025 23:17:14 +0000</pubDate></item><item><title>测试2</title><link>http://blog.1357924680liu.us.kg/post/ce-shi-2.html</link><description># H1
+![Image](https://github.com/user-attachments/assets/ddf92718-b603-4456-9037-c98701dd9fba)。</description><guid isPermaLink="true">http://blog.1357924680liu.us.kg/post/guan-yu-DeepSeek-bao-huo.html</guid><pubDate>Mon, 27 Jan 2025 23:17:14 +0000</pubDate></item><item><title>测试2</title><link>http://blog.1357924680liu.us.kg/post/ce-shi-2.html</link><description># H1
 ## H2
 ### H3
 #### H4
