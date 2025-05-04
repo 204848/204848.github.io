@@ -1,4 +1,4 @@
-# 一个博客 :link: http://blog.1357924680liu.us.kg 
+# 一个博客 :link: http://204848.github.io 
 ### :page_facing_up: [6](http://blog.1357924680liu.us.kg/tag.html) 
 ### :speech_balloon: 1 
 ### :hibiscus: 5279 
