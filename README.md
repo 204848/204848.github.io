@@ -1,4 +1,4 @@
-# 一个博客 :link: http://blog.liu32162048.dpdns.org  或者http://204848.github.io
+# 一个博客 :link:http://204848.github.io
 ### :page_facing_up: [6](http://blog.liu32162048.dpdns.org/tag.html) 
 ### :speech_balloon: 1 
 ### :hibiscus: 5279 
