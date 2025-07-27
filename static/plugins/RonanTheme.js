@@ -1,50 +1,90 @@
 // static/plugins/RonanTheme.js
 document.addEventListener('DOMContentLoaded', function() {
-    // 设置背景图片
-    document.body.style.background = "url('/static/infinity-1886172.webp') no-repeat center center fixed";
-    document.body.style.backgroundSize = "cover";
+    const currentUrl = window.location.pathname;
     
-    // 高斯模糊效果
-    const contentElements = document.querySelectorAll('#header, #content, #footer');
-    contentElements.forEach(el => {
-        el.style.backdropFilter = "blur(10px)";
-        el.style.backgroundColor = "rgba(255, 255, 255, 0.5)";
-        el.style.borderRadius = "10px";
-        el.style.padding = "20px";
-        el.style.marginBottom = "20px";
-    });
-    
-    // 悬停动效
-    const navItems = document.querySelectorAll('.SideNav-item');
-    navItems.forEach(item => {
-        item.style.transition = "all 0.3s ease";
+    // 添加全局样式
+    const style = document.createElement('style');
+    style.textContent = `
+        html {
+            background: url('/background.webp') no-repeat center center fixed;
+            background-size: cover;
+            filter: blur(0px);
+            transition: filter 0.3s ease;
+        }
+        body {
+            background: rgba(237, 239, 233, 0.84);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            overflow: auto;
+        }
+        .SideNav {
+            background: rgba(255, 255, 255, 0.6);
+            backdrop-filter: blur(5px);
+            -webkit-backdrop-filter: blur(5px);
+            border-radius: 10px;
+        }
+        .SideNav-item {
+            transition: all 0.2s ease;
+            border-radius: 8px;
+        }
+        .SideNav-item:hover {
+            background-color: #c3e4e3;
+            transform: scale(1.04);
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+        }
         
-        item.addEventListener('mouseenter', function() {
-            this.style.transform = "translateY(-5px)";
-            this.style.boxShadow = "0 10px 20px rgba(0,0,0,0.1)";
-            this.style.backgroundColor = "#f0f8ff";
-        });
+        /* 主页特定样式 */
+        ${currentUrl === '/' ? `
+            .blogTitle {
+                display: unset;
+            }
+            #header {
+                height: 300px;
+            }
+            #header h1 {
+                position: absolute;
+                left: 50%;
+                transform: translateX(-50%);
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+            .avatar {
+                width: 200px;
+                height: 200px;
+            }
+            #header h1 a {
+                margin-top: 30px;
+                font-family: fantasy;
+                margin-left: unset;
+            }
+        ` : ''}
         
-        item.addEventListener('mouseleave', function() {
-            this.style.transform = "none";
-            this.style.boxShadow = "none";
-            this.style.backgroundColor = "";
-        });
-    });
-    
-    // 标签悬停效果
-    const labels = document.querySelectorAll('.Label');
-    labels.forEach(label => {
-        label.style.transition = "all 0.2s ease";
+        /* 文章页特定样式 */
+        ${currentUrl.includes('/post/') ? `
+            .markdown-body img {
+                border-radius: 8px;
+                border: 1px solid rgba(255, 255, 255, 0.78); 
+            }
+            .markdown-body .highlight pre, .markdown-body pre {
+                background-color: rgba(243, 244, 243, 0.967);
+                box-shadow: 0 10px 30px 0 rgba(222, 217, 217, 0.4);
+                padding-top: 20px; 
+                border-radius: 8px;
+            }
+        ` : ''}
         
-        label.addEventListener('mouseenter', function() {
-            this.style.transform = "scale(1.1)";
-            this.style.boxShadow = "0 0 10px rgba(0,0,0,0.2)";
-        });
-        
-        label.addEventListener('mouseleave', function() {
-            this.style.transform = "none";
-            this.style.boxShadow = "none";
-        });
-    });
+        /* 搜索页特定样式 */
+        ${currentUrl.includes('/tag') ? `
+            .subnav-search-input {
+                border-radius: 2em;
+            }
+            .SideNav-item:hover {
+                transform: scale(1.02);
+            }
+        ` : ''}
+    `;
+    document.head.appendChild(style);
 });
