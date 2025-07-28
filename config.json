@@ -5,7 +5,6 @@
     "GMEEK_VERSION":"last",
     "script":"<script src='https://blog.liu32162048.dpdns.org/plugins/lightbox2.js'></script>",
     "allHead":"<script src='https://blog.liu32162048.dpdns.org/plugins/gmeekvercount2.js'></script>",
-    "script":"<script>document.getElementById('cmButton').click();</script>",
     "script":"<script src='https://blog.liu32162048.dpdns.org/plugins/gmeektoc2.js'></script><script src='https://blog.liu32162048.dpdns.org/plugins/lightbox2.js'></script>script:<script>document.getElementById('cmButton').click();</script>",
     "homeUrl":"http://blog.liu32162048.dpdns.org",
     "singlePage":["AI"],
