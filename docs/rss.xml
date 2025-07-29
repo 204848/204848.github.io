@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>一个博客</title><link>http://blog.liu32162048.dpdns.org</link><description>这是一个简单博客，可能会分享一些知识或尘封一些信息</description><copyright>一个博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>http://blog.liu32162048.dpdns.org</link></image><lastBuildDate>Tue, 29 Jul 2025 16:09:17 +0000</lastBuildDate><managingEditor>一个博客</managingEditor><ttl>60</ttl><webMaster>一个博客</webMaster><item><title>耻辱柱</title><link>http://blog.liu32162048.dpdns.org/post/chi-ru-zhu.html</link><description>t*，没看文档[添加资源](https://blog.meekdai.com/post/%E3%80%90Gmeek-jin-jie-%E3%80%91static-wen-jian-jia-shi-yong.html)卡在怎么我的不能访问文件10多分钟，然后又遇到玄学文件名GmeekTOC.js还有其它作者自带插件文件名，死活访问不了，
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>一个博客</title><link>http://blog.liu32162048.dpdns.org</link><description>这是一个简单博客，可能会分享一些知识或尘封一些信息</description><copyright>一个博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>http://blog.liu32162048.dpdns.org</link></image><lastBuildDate>Tue, 29 Jul 2025 16:19:50 +0000</lastBuildDate><managingEditor>一个博客</managingEditor><ttl>60</ttl><webMaster>一个博客</webMaster><item><title>耻辱柱</title><link>http://blog.liu32162048.dpdns.org/post/chi-ru-zhu.html</link><description>t*，没看文档[添加资源](https://blog.meekdai.com/post/%E3%80%90Gmeek-jin-jie-%E3%80%91static-wen-jian-jia-shi-yong.html)卡在怎么我的不能访问文件10多分钟，然后又遇到玄学文件名GmeekTOC.js还有其它作者自带插件文件名，死活访问不了，
 
 &lt;img width='1085' height='656' alt='Image' src='https://github.com/user-attachments/assets/d0515b8e-c791-4576-8551-1dc29c921f12' /&gt;
 
@@ -85,17 +85,4 @@ https://github.com/user-attachments/assets/b6e7604c-12b7-4e9c-9178-072036bda5ec
 
 ![Image](https://github.com/user-attachments/assets/8c832801-7657-449f-8462-5d1ef8734863)
 ![Image](https://github.com/user-attachments/assets/39f8d0f1-4b38-4d0f-8baf-2ebd05ad2607)
-![Image](https://github.com/user-attachments/assets/ddf92718-b603-4456-9037-c98701dd9fba)。</description><guid isPermaLink="true">http://blog.liu32162048.dpdns.org/post/guan-yu-DeepSeek-bao-huo.html</guid><pubDate>Mon, 27 Jan 2025 23:17:14 +0000</pubDate></item><item><title>测试2</title><link>http://blog.liu32162048.dpdns.org/post/ce-shi-2.html</link><description># H1
-## H2
-### H3
-#### H4
-&lt;!-- ##{'script':'&lt;script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'&gt;&lt;/script&gt;'}## --&gt;
-。</description><guid isPermaLink="true">http://blog.liu32162048.dpdns.org/post/ce-shi-2.html</guid><pubDate>Tue, 21 Jan 2025 10:42:02 +0000</pubDate></item><item><title>一个测试网页🤖</title><link>http://blog.liu32162048.dpdns.org/post/yi-ge-ce-shi-wang-ye-%F0%9F%A4%96.html</link><description># 一号测试（表情）
-😀🆒哭泣，😈，😀
-## 二级标题测试
-### 斜杠测试
-**_哈哈哈哈测试用_**
-### 图片测试
-![Image](https://cn.bing.com/images/search？q=%E7%86%8A%E7%8C%AB%E5%9B%BE%E7%89%87&amp;FORM=IQFRBA&amp;id=072D94D32E272890485AF5146957F42D5727FEBA)
-
-![Image](https://github.com/user-attachments/assets/0b2f0040-a254-4a8e-8646-55e36d3ba6e4)。</description><guid isPermaLink="true">http://blog.liu32162048.dpdns.org/post/yi-ge-ce-shi-wang-ye-%F0%9F%A4%96.html</guid><pubDate>Sun, 19 Jan 2025 12:42:42 +0000</pubDate></item><item><title>13579</title><link>http://blog.liu32162048.dpdns.org/post/13579.html</link><description>哈哈测试中😄。</description><guid isPermaLink="true">http://blog.liu32162048.dpdns.org/post/13579.html</guid><pubDate>Fri, 17 Jan 2025 11:37:43 +0000</pubDate></item></channel></rss>
+![Image](https://github.com/user-attachments/assets/ddf92718-b603-4456-9037-c98701dd9fba)。</description><guid isPermaLink="true">http://blog.liu32162048.dpdns.org/post/guan-yu-DeepSeek-bao-huo.html</guid><pubDate>Mon, 27 Jan 2025 23:17:14 +0000</pubDate></item></channel></rss>
