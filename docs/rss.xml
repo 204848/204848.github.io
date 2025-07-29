@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>一个博客</title><link>http://blog.liu32162048.dpdns.org</link><description>这是一个简单博客，可能会分享一些知识或尘封一些信息</description><copyright>一个博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>http://blog.liu32162048.dpdns.org</link></image><lastBuildDate>Tue, 29 Jul 2025 15:53:09 +0000</lastBuildDate><managingEditor>一个博客</managingEditor><ttl>60</ttl><webMaster>一个博客</webMaster><item><title>耻辱柱</title><link>http://blog.liu32162048.dpdns.org/post/chi-ru-zhu.html</link><description>t*，没看文档[添加资源](https://blog.meekdai.com/post/%E3%80%90Gmeek-jin-jie-%E3%80%91static-wen-jian-jia-shi-yong.html)卡在怎么我的不能访问文件10多分钟，然后又遇到玄学文件名GmeekTOC.js还有其它作者自带插件文件名，死活访问不了，
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>一个博客</title><link>http://blog.liu32162048.dpdns.org</link><description>这是一个简单博客，可能会分享一些知识或尘封一些信息</description><copyright>一个博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>http://blog.liu32162048.dpdns.org</link></image><lastBuildDate>Tue, 29 Jul 2025 16:00:23 +0000</lastBuildDate><managingEditor>一个博客</managingEditor><ttl>60</ttl><webMaster>一个博客</webMaster><item><title>耻辱柱</title><link>http://blog.liu32162048.dpdns.org/post/chi-ru-zhu.html</link><description>t*，没看文档[添加资源](https://blog.meekdai.com/post/%E3%80%90Gmeek-jin-jie-%E3%80%91static-wen-jian-jia-shi-yong.html)卡在怎么我的不能访问文件10多分钟，然后又遇到玄学文件名GmeekTOC.js还有其它作者自带插件文件名，死活访问不了，
 
 &lt;img width='1085' height='656' alt='Image' src='https://github.com/user-attachments/assets/d0515b8e-c791-4576-8551-1dc29c921f12' /&gt;
 
@@ -55,8 +55,7 @@ if __name__ == '__main__':
 ```
 还有一些别的未公开函数比如彩虹猫就用了一个实现蓝屏，没一一研究了。</description><guid isPermaLink="true">http://blog.liu32162048.dpdns.org/post/ntdll-kuai-su-guan-ji.html</guid><pubDate>Sun, 27 Jul 2025 07:59:16 +0000</pubDate></item><item><title>世界好，hello word</title><link>http://blog.liu32162048.dpdns.org/post/shi-jie-hao-%EF%BC%8Chello%20word.html</link><description>什么时候银河系会和仙女座星系撞在一起呢？量子力学什么时候兼容广义相对论呢？再给个地球视角和太阳图片
 
-`Gmeek-html&lt;iframe src='https://github.com/user-attachments/assets/b6e7604c-12b7-4e9c-9178-072036bda5ec' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true' width='100%' height='460px'&gt;&lt;/iframe&gt;`
-
+![video](https://github.com/user-attachments/assets/b6e7604c-12b7-4e9c-9178-072036bda5ec)
 
 
 ![Image](https://github.com/user-attachments/assets/10d55061-f5c6-402b-bbff-b5c368c89075)

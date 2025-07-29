@@ -1,7 +1,6 @@
 什么时候银河系会和仙女座星系撞在一起呢？量子力学什么时候兼容广义相对论呢？再给个地球视角和太阳图片
 
-`Gmeek-html<iframe src="https://github.com/user-attachments/assets/b6e7604c-12b7-4e9c-9178-072036bda5ec" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="460px"></iframe>`
-
+![video](https://github.com/user-attachments/assets/b6e7604c-12b7-4e9c-9178-072036bda5ec)
 
 
 ![Image](https://github.com/user-attachments/assets/10d55061-f5c6-402b-bbff-b5c368c89075)
