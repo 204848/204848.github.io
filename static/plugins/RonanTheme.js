@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         html {    
-            background: url('https://blog.freeblock.cn/background.webp') no-repeat center center fixed;
+            background: url('https://blog.liu32162048.dpdns.org/beijing.webp') no-repeat center center fixed;
             background-size: cover;
         }
 
@@ -204,7 +204,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (currentUrl == '/' || currentUrl.includes('/index.html') || currentUrl.includes('/page')) {
         console.log('应用主页主题');
 
-        // 添加新页脚信息（无赞助商信息）
+        // 添加新页脚信息
         let footer = document.getElementById('footer');
         if (footer) {
             let themeInfo = document.createElement('div');
@@ -224,7 +224,7 @@ document.addEventListener('DOMContentLoaded', function() {
     else if (currentUrl.includes('/post/') || currentUrl.includes('/link.html') || currentUrl.includes('/about.html')) {
         console.log('文章页主题');
 
-        // 添加新页脚信息（无赞助商信息）
+        // 添加新页脚信息
         let footer = document.getElementById('footer');
         if (footer) {
             let themeInfo = document.createElement('div');
@@ -256,7 +256,7 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         }
 
-        // 添加新页脚信息（无赞助商信息）
+        // 添加新页脚信息
         let footer = document.getElementById('footer');
         if (footer) {
             let themeInfo = document.createElement('div');
