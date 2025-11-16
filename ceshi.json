@@ -1,17 +1,41 @@
 [
   {
     "subject": "数学",
-    "question": "正方形有几条边？",
-    "answer": ["4", "四"],
+    "question": "解方程：2x + 3 = 11。 (分值：5分)",
+    "answer": ["4"],
     "keywords_mode": true,
-    "image_url": "https://example.com/square.png",
+    "image_url": "",
     "attempts": 3
   },
   {
-    "subject": "地理",
-    "question": "长江发源于哪个山脉？",
-    "answer": ["唐古拉山"],
-    "keywords_mode": false,
+    "subject": "数学",
+    "question": "甲种铅笔每支0.3元，乙种铅笔每支0.6元，用9元钱买了两种铅笔共20支。问甲种铅笔买了多少支？ (分值：5分)",
+    "answer": ["10"],
+    "keywords_mode": true,
+    "image_url": "",
+    "attempts": 3
+  },
+  {
+    "subject": "数学",
+    "question": "解方程：(1/2)x - 1/4 = 3/4。 (分值：5分)",
+    "answer": ["2"],
+    "keywords_mode": true,
+    "image_url": "",
+    "attempts": 3
+  },
+  {
+    "subject": "数学",
+    "question": "一件衣服按进价提高40%后标价，再打8折出售，结果每件获利15元。问这件衣服的进价是多少元？ (分值：5分)",
+    "answer": ["125"],
+    "keywords_mode": true,
+    "image_url": "",
+    "attempts": 3
+  },
+  {
+    "subject": "数学",
+    "question": "一辆火车通过一条300米长的隧道需要20秒，灯光照在火车上的时间是10秒。求火车的长度是多少米？ (分值：5分)",
+    "answer": ["200"],
+    "keywords_mode": true,
     "image_url": "",
     "attempts": 3
   }
